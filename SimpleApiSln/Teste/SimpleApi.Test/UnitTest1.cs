@@ -14,7 +14,6 @@ namespace SimpleApi.Test
         {
             var returnValue = _controller.Get().Value.ToList();
             Assert.True(returnValue.Count > 0);
-            
         }
 
         [Fact]
