@@ -1,0 +1,14 @@
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\SimpleApiSln\src\SimpleApi\bin\Debug\netcoreapp2.2\SimpleApi.deps.json
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\SimpleApiSln\src\SimpleApi\bin\Debug\netcoreapp2.2\SimpleApi.runtimeconfig.json
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\SimpleApiSln\src\SimpleApi\bin\Debug\netcoreapp2.2\SimpleApi.runtimeconfig.dev.json
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\SimpleApiSln\src\SimpleApi\bin\Debug\netcoreapp2.2\SimpleApi.dll
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\SimpleApiSln\src\SimpleApi\bin\Debug\netcoreapp2.2\SimpleApi.pdb
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\SimpleApiSln\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.csprojAssemblyReference.cache
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\SimpleApiSln\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.csproj.CoreCompileInputs.cache
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\SimpleApiSln\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.RazorAssemblyInfo.cache
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\SimpleApiSln\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.RazorAssemblyInfo.cs
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\SimpleApiSln\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.AssemblyInfoInputs.cache
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\SimpleApiSln\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.AssemblyInfo.cs
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\SimpleApiSln\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.RazorTargetAssemblyInfo.cache
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\SimpleApiSln\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.dll
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\SimpleApiSln\src\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.pdb
